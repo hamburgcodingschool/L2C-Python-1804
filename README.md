@@ -1,4 +1,3 @@
-# L2C-Python-1804
 # Learn to Code with Python - April 2018
 
 Useful links
