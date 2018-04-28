@@ -6,21 +6,15 @@ accessAllowed = True
 print("What's the password?")
 userCode = input()
 
-# while userCode != secretCode:
-#     if triesLeft <= 0:
-#         accessAllowed = False
-#         break
-#
-#     print("That's wrong. You have " + str(triesLeft) + " tries left.")
-#     userCode = input()
-#
-#     triesLeft = triesLeft - 1
+while userCode != secretCode:
+    if triesLeft <= 0:
+        accessAllowed = False
+        break
 
-accessAllowed = False
+    print("That's wrong. You have " + str(triesLeft) + " tries left.")
+    userCode = input()
 
-while triesLeft > 0:
-
-
+    triesLeft = triesLeft - 1
 
 if accessAllowed:
     print("Welcome")
