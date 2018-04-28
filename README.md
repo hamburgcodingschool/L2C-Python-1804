@@ -3,3 +3,5 @@
 Useful links
 - https://www.python.org/downloads/
 - http://www.jetbrains.com/pycharm/download/
+
+helder@hamburgcodingschool.com
