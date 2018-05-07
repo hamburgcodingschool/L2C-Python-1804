@@ -1,4 +1,3 @@
-print('Whats your name?')
 
 name = 'Helder'
 
