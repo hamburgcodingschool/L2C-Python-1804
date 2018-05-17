@@ -1,5 +1,5 @@
 1.
-Write a function that takes a sentence from the use and prints the words, one per line, in a rectangular frame. For example the sentence "Hello World in a frame" gets printed as:
+Write a function that takes a sentence from the user and prints the words, one per line, in a rectangular frame. For example the sentence "Hello World in a frame" gets printed as:
 
 ```
 *********
